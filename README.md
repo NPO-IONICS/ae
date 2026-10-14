@@ -4,7 +4,7 @@
 ## Быстрый старт (Debian/Astra/Mint/Ubuntu)  
 ```
 sudo apt install python3-commonmark python3-pygame python3-pyperclip -y
-git clone https://github.com/Michaelionin/ae.git ae
+git clone https://github.com/NPO-IONICS/ae.git ae
 cd ae
 python3 ae.py
 ```
@@ -12,7 +12,7 @@ python3 ae.py
 ## Быстрый старт (другие ОС)
 ```
 pip install requests commonmark pygame pyperclip
-git clone https://github.com/Michaelionin/ae.git ae
+git clone https://github.com/NPO-IONICS/ae.git ae
 cd ae
 python3 ae.py
 ```
